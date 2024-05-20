@@ -9,7 +9,7 @@ const boxLostTimesGreenVSC = {
     '10': [19.5, 13.5], // Melbourne 2023
     '144': [20.5, 11], // Baku 2023
     '151': [17, 9], // Miami 2023
-    '6': [NaN, NaN], // Imola
+    '6': [26.5, 16.5], // Imola
     '22': [19.5, 12], // Monaco 2023
     '15': [22, 12.5], // Barcelona 2023
     '23': [18.5, 9.5], // Montreal 2023
@@ -22,7 +22,7 @@ const boxLostTimesGreenVSC = {
     '61': [28.5, 15], // Singapore 2023
     '47': [22.5, 10], // Suzuka 2022
     '150': [26.5, 15.5], // Losail, Qatar 2021
-    '9': [20, 14], // Austin 2022
+    '9': [20, 14], // Austin 2023
     '65': [22, 15], // Mexico 2022
     '14': [21, 11], // Interlagos 2022
     // TODO LAS VEGAS
